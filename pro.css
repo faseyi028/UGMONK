@@ -1,0 +1,102 @@
+body{
+background:white;
+padding:auto;
+margin:auto;
+}
+.body_cover{
+	display: flex;
+	margin-left:10em ;
+	margin-top: 1.7em;
+}
+#Men{
+	text-decoration: underline;
+}
+.header_menu{
+	text-decoration: none;
+	margin-left:1.5em;
+	color:black;
+	font:15px caliri;
+	padding-top:0.3em;
+
+}
+#Login, #Help, #Contact{
+	border-right:2px solid black;
+	border-radius: 2px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	padding-left:-5px ;
+
+}
+#Login{
+	margin-left: 400px;
+}
+
+.first_layer{
+	margin-right:1.5em;
+	font:bold 20px times new roman;
+}
+.second_layer{
+	display: flex;
+	background-color:#f7f7f7;
+	margin-top:1.5em;
+
+}
+.main_second_layer{
+	font:11px calibri;
+	margin-left:14em;
+	padding:0.5em 1em;
+}
+.first_img{
+	width:40%;
+	margin:2em -19em;
+}
+.main_sub_second_layer{
+	margin-left:22em;
+	margin-top:1em;
+	padding: 30px;
+	padding-right: 200px;
+	box-shadow:0px -1px 5px 0px rgba(0, 0, 0, 0.3);
+	background-color: #f5f5f5;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+.circle{
+	display: flex;
+	margin-top:1em;
+	margin-left:23em;
+}
+.menu{
+	margin-left:23em;
+	margin-top:2em;
+	display: flex;
+
+}
+.menu_title{
+	background-color:;
+	box-shadow:0px -1px 5px 0px rgba(0, 0, 0, 0.3);
+	width:35px;
+	margin-left:1.7em;
+	padding:8px;
+}
+.sub_menu{
+	margin-left:22em;
+	margin-top:2em;
+}
+.last ul{
+	list-style: none;
+	display: flex;
+	margin-top:1.5em;
+	margin-left:20em;
+
+}
+.last ul li a {
+	text-decoration: none;
+	color: black;
+	;
+	
+}
+.the_last{
+	margin-left:22.5em;
+	text-spacing:6px;
+}
